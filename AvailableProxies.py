@@ -61,8 +61,8 @@ class AvailableProxies(object):
                 print(e)
                 unavailable += 1
                 continue
-        print('success proxy num : ', available)
-        print('bad proxy num : ', unavailable)
+        print('available proxy:', available)
+        print('unavailable proxy:', unavailable)
         return available_proxies
 
 
