@@ -14,4 +14,4 @@ Obtain the free proxy IP from the Spur Agent and test the available proxy IP
 `pip install -r requirements.txt`
 
 ## 运行脚本
-`python AvailableProxies.py`
+`AvailableProxies.py`
