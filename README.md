@@ -8,4 +8,10 @@ Obtain the free proxy IP from the Spur Agent and test the available proxy IP
 * 存储可用代理
 
 # 使用
+使用 Python3.6 开发的项目，没有对其他版本 Python 测试
+
+## 构建环境
+`pip install -r requirements.txt`
+
+## 运行脚本
 `python AvailableProxies.py`
